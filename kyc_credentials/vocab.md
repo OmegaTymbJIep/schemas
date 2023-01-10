@@ -32,7 +32,7 @@ User's name suffix. Max length 8 bytes
 
 # namePrefix
 
-User's name prefix. Max length 9 bytes
+User's name prefix. Max length 8 bytes
 
 ```
   "name_prefix": "Fon"
