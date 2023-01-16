@@ -1,0 +1,23 @@
+{
+    "@context": [{
+        "@version": 1.1,
+        "@protected": true,
+        "id": "@id",
+        "type": "@type",
+        "Q DAO Membership": {
+            "@id": "https://raw.githubusercontent.com/OmegaTymbJIep/schemas/main/q_dao_membership/q_dao_membership.json-ld#Q DAO Membership",
+            "@context" : {
+                "@version": 1.1,
+                "@protected": true,
+                "id": "@id",
+                "type": "@type",
+                "poly-vocab": "https://raw.githubusercontent.com/OmegaTymbJIep/schemas/main/q_dao_membership/vocab.json",
+                "serialization": "https://github.com/iden3/claim-schema-vocab/blob/main/credentials/serialization.md#",
+                "isMember": {
+                    "@id": "poly-vocab:isMember",
+                    "@type": "serialization:IndexDataSlotA"
+                }
+            }
+        }
+    }]
+}

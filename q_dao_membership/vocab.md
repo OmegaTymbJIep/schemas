@@ -1,0 +1,14 @@
+{
+    "$id": "https://raw.githubusercontent.com/OmegaTymbJIep/schemas/main/q_dao_membership/vocab.json",
+    "$schema": "https://raw.githubusercontent.com/OmegaTymbJIep/schemas/main/q_dao_membership/q_dao_membership.json-ld",
+    "title": "Vocabulary for Iden3 Credential specific type in a json Format",
+    "type": "Q DAO Membership",
+    "properties": {   
+        "isMember": {
+            "display": "Is member",
+            "description": "",
+            "type": "number",
+            "format": "bool"
+        }
+    }
+}
