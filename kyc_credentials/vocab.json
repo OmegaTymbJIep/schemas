@@ -23,7 +23,7 @@
             "display": "Name suffix",
             "description": "",
             "type": "number"
-        }
+        },
         "name_prefix": {
             "display": "Name prefix",
             "description": "",
