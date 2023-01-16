@@ -1,0 +1,38 @@
+{
+    "$id": "https://raw.githubusercontent.com/OmegaTymbJIep/schemas/main/kyc_credentials/vocab.json",
+    "$schema": "https://raw.githubusercontent.com/OmegaTymbJIep/schemas/main/kyc_credentials/kyc_credentials.json-ld",
+    "title": "Vocabulary for Iden3 Credential specific type in a json Format",
+    "type": "KYC Full name credentials",
+    "properties": {   
+        "first_name": {
+            "display": "First name",
+            "description": "",
+            "type": "number",
+            "format": "string"
+        },
+        "last_name": {
+            "display": "Last name",
+            "description": "",
+            "type": "number",
+            "format": "string"
+        },
+        "middle_name": {
+            "display": "Middle name",
+            "description": "",
+            "type": "number",
+            "format": "string"
+        },
+        "name_suffix": {
+            "display": "Name suffix",
+            "description": "",
+            "type": "number",
+            "format": "string"
+        }
+        "name_prefix": {
+            "display": "Name prefix",
+            "description": "",
+            "type": "number",
+            "format": "string"
+        }
+    }
+}
