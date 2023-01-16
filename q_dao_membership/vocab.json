@@ -4,7 +4,7 @@
     "title": "Vocabulary for Iden3 Credential specific type in a json Format",
     "type": "Q DAO Membership",
     "properties": {   
-        "isMember": {
+        "is_member": {
             "display": "Is member",
             "description": "",
             "type": "number",
