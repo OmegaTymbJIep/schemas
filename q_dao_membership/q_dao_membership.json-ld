@@ -13,7 +13,7 @@
                 "type": "@type",
                 "poly-vocab": "https://raw.githubusercontent.com/OmegaTymbJIep/schemas/main/q_dao_membership/vocab.json",
                 "serialization": "https://github.com/iden3/claim-schema-vocab/blob/main/credentials/serialization.md#",
-                "isMember": {
+                "is_member": {
                     "@id": "poly-vocab:isMember",
                     "@type": "serialization:ValueDataSlotA"
                 }
