@@ -1,0 +1,33 @@
+{
+    "@context": [
+        {
+            "@version": 1.1,
+            "@protected": true,
+            "id": "@id",
+            "type": "@type",
+            "KYCAgeCredential": {
+                "@id": "https://raw.githubusercontent.com/omegatymbjiep/schemas/main/json-ld/QDAOMembership.json-ld",
+                "@context": {
+                    "@version": 1.1,
+                    "@protected": true,
+                    "id": "@id",
+                    "type": "@type",
+                    "qdm-vocab": "https://raw.githubusercontent.com/omegatymbjiep/schemas/main/vocab/QDAOMembership.md",
+                    "xsd": "http://www.w3.org/2001/XMLSchema#",
+                    "isMember": {
+                        "@id": "qdm-vocab:isMember",
+                        "@type": "xsd:boolean"
+                    },
+                    "serialNumber": {
+                        "@id": "qdm-vocab:serialNumber",
+                        "@type": "xsd:integer"
+                    },
+                    "issuanceDate": {
+                        "@id": "qdm-vocab:issuanceData",
+                        "@type": "xsd:integer"
+                    }
+                }
+            }
+        }
+    ]
+}
