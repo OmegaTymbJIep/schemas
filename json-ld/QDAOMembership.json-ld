@@ -6,7 +6,7 @@
             "id": "@id",
             "type": "@type",
             "QDAOMembership": {
-                "@id": "https://raw.githubusercontent.com/omegatymbjiep/schemas/main/json-ld/QDAOMembership.json-ld",
+                "@id": "https://raw.githubusercontent.com/omegatymbjiep/schemas/main/json-ld/QDAOMembership.json-ld#QDAOMembership",
                 "@context": {
                     "@version": 1.1,
                     "@protected": true,
