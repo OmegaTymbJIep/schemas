@@ -5,7 +5,7 @@
             "@protected": true,
             "id": "@id",
             "type": "@type",
-            "KYCAgeCredential": {
+            "QDAOMembership": {
                 "@id": "https://raw.githubusercontent.com/omegatymbjiep/schemas/main/json-ld/QDAOMembership.json-ld",
                 "@context": {
                     "@version": 1.1,
