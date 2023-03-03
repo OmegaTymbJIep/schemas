@@ -107,7 +107,7 @@
             "required": [
                 "id",
                 "isMember",
-                "serialNumber",
+                "serialNumber"
             ],
             "properties": {
                 "id": {
