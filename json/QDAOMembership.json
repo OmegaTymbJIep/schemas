@@ -116,7 +116,7 @@
                     "format": "uri"
                 },
                 "isMember": {
-                    "type": "integer"
+                    "type": "boolean"
                 },
                 "serialNumber": {
                     "type": "integer"
