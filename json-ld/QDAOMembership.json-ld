@@ -21,10 +21,6 @@
                     "serialNumber": {
                         "@id": "qdm-vocab:serialNumber",
                         "@type": "xsd:integer"
-                    },
-                    "issuanceDate": {
-                        "@id": "qdm-vocab:issuanceData",
-                        "@type": "xsd:integer"
                     }
                 }
             }

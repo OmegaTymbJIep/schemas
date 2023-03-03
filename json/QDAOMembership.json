@@ -121,9 +121,6 @@
                 },
                 "serialNumber": {
                     "type": "integer"
-                },
-                "issuanceDate": {
-                    "type": "integer"
                 }
             }
         }
