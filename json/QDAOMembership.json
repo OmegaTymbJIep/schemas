@@ -108,7 +108,6 @@
                 "id",
                 "isMember",
                 "serialNumber",
-                "issuanceDate"
             ],
             "properties": {
                 "id": {
