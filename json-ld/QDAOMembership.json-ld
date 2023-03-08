@@ -16,7 +16,7 @@
                     "xsd": "http://www.w3.org/2001/XMLSchema#",
                     "isMember": {
                         "@id": "qdm-vocab:isMember",
-                        "@type": "xsd:boolean"
+                        "@type": "xsd:integer"
                     },
                     "serialNumber": {
                         "@id": "qdm-vocab:serialNumber",
